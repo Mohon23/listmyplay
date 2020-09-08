@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1,STAR SPORTS 2HD
+http://103.135.208.14/live/ibox/bd/54.m3u8
+#EXTINF:-1,STAR SPORTS 1HD
+http://103.135.208.14/live/ibox/bd/53.m3u8
+#EXTINF:-1,STAR SPORTS
+http://103.135.208.14/live/ibox/bd/77.m3u8
+#EXTINF:-1,SONY TEN 1
+http://103.135.208.14/live/ibox/bd/79.m3u8
+#EXTINF:-1,SONY TEN 3
+http://103.135.208.14/live/ibox/bd/55.m3u8
+#EXTINF:-1,SONY 
+http://103.135.208.14/live/ibox/bd/43.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.135.208.14/live/ibox/bd/107.m3u8
+#EXTINF:-1,SAB TV
+http://103.135.208.14/live/ibox/bd/45.m3u8
+#EXTINF:-1,ZEE ACTION
+http://103.135.208.14/live/ibox/bd/46.m3u8
+#EXTINF:-1,AND PICTURES
+http://103.135.208.14/live/ibox/bd/94.m3u8
+#EXTINF:-1,SONY MAX
+http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY
+http://ccn.anytv.live:8080/sony/index.m3u8
+#EXTINF:-1,SONY SIX
+http://aklivetv.com:8080/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY TEN 1
+http://aklivetv.com:8080/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY TEN 2
+http://aklivetv.com:8080/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY TEN 3
+http://aklivetv.com:8080/sonyten3/index.m3u8
+#EXTINF:-1,TEN SPORTS
+http://aklivetv.com:8080/tensports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV SPORTS
+http://aklivetv.com:8080/ptvsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE BANGLA
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR JALSHA
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JALSHA MOVIES
+http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9XM
+http://aklivetv.com:8080/9xm/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY MAX HD
+http://stm.aklivetv.com:8080/sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DISCOVERY ENGLISH
+http://stm.aklivetv.com:8080/discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MAASRANGA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+#EXTINF:-1,EKATTOR
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+#EXTINF:-1,NAGORIK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#EXTINF:-1,UNKNOWN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+#EXTINF:-1,DEEPTO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1,GTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1,CHANNEL 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#EXTINF:-1,SA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+#EXTINF:-1,NTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:-1,ATN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+#EXTINF:-1,RTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
+#EXTINF:-1,INDEPENDENT TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
+#EXTINF:-1,JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF:-1,SHOMOY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+#EXTINF:-1,EKUSHEY ETV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+#EXTINF:-1,CHANNEL 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+#EXTINF:-1,BANGLA VISION
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+#EXTINF:-1,MY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+#EXTINF:-1,BTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+#EXTINF:-1,
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF:-1,ZEE BANGLA HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1,STAR JALSHA HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-1,TRAVEL XP
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1,SONY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1,STAR PLUS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:-1,ZEE TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1,ZEE CINEMA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1,COLORS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1,SONY MAX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1,HUM MASALA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
+#EXTINF:-1,HUM SITARAY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
+#EXTINF:-1,BFLIX MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1,B4U MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+#EXTINF:-1,ENTER10 MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF:-1,MN PLUS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+#EXTINF:-1SONY PIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+#EXTINF:-1,AND FLIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF:-1,AXN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF:-1,STAR MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1,BBC LIFESTYLE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1,SONY TEN 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF:-1,EUROSPORT
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+#EXTINF:-1,SONY SIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#EXTINF:-1,SONY TEN 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1,STAR SPORTS SELECT 1HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1,STAR SPORTS SELECT 2HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1,DSPORT
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:-1,
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
+#EXTINF:-1,AL JAZEERA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
+#EXTINF:-1,KOLKATA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
+#EXTINF:-1,DISCOVERY BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1,DURONTO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+#EXTINF:-1,
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:-1,DISNEY XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF:-1,SONY YAY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF:-1,CBEE BIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
+#EXTINF:-1,NICKLODEON
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF:-1,GB GAAN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+#EXTINF:-1,SANGEET BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+#EXTINF:-1,8XM
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
+#EXTINF:-1,ZEE ETC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
+#EXTINF:-1,MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1,9X JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:-1,MAAST III
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+#EXTINF:-1,B4U MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+#EXTINF:-1,ZING
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF:-1,JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
+#EXTINF:-1,E 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+#EXTINF:-1,MUSIC INDIA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
+#EXTINF:-1,
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
+#EXTINF:-1,HISTORY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts 
+#EXTINF:-1,MUSIC BOX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts 
+#EXTINF:-1,DW
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
+#EXTINF:-1,SONY AATH
+https://edge4.bioscopelive.com/hls/anonymous/CperDxVP-LYJxPFkliHCUg/1599332258/sony_aath.m3u8
+#EXTINF:-1,SONY SIX
+https://edge4.bioscopelive.com/hls/anonymous/CperDxVP-LYJxPFkliHCUg/1599333910/sony_six.m3u8
