@@ -203,3 +203,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
 https://edge4.bioscopelive.com/hls/anonymous/CperDxVP-LYJxPFkliHCUg/1599332258/sony_aath.m3u8
 #EXTINF:-1,SONY SIX
 https://edge4.bioscopelive.com/hls/anonymous/CperDxVP-LYJxPFkliHCUg/1599333910/sony_six.m3u8
+#EXTINF:-1,SONY MAX HD
+http://172.17.50.112/live/antbd1005/index.m3u8
+#EXTINF:-1,SONY SIX HD
+http://172.17.50.112/live/antbd1006/index.m3u8
+#EXTINF:-1,STAR SPORTS 2 HD
+http://172.17.50.112/live/antbd1007/index.m3u8
