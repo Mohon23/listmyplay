@@ -209,3 +209,5 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 http://172.17.50.112/live/antbd1006/index.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
 http://172.17.50.112/live/antbd1007/index.m3u8
+#EXTINF:-,GEO SUPER
+http://speciallive.hjkm.info:11990/minerva/geosuper/chunks.m3u8?nimblesessionid=5074443&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIwIDExOjA5OjE0IEFNJmhhc2hfdmFsdWU9ck9jU041YngxVUxUVS9LVkgxUUJKdz09JnZhbGlkbWludXRlcz0y
