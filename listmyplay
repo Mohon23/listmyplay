@@ -93,7 +93,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/17.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
 #EXTINF:-1,KI_BTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
-#EXTINF:-1,
+#EXTINF:-1,KI_SONY AATH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF:-1,KI_ZEE BANGLA HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
@@ -153,7 +153,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
 #EXTINF:-1,KI_BBC WORLD NEWS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
-#EXTINF:-1,
+#EXTINF:-1,KI_DURDARSHAN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
 #EXTINF:-1,KI_AL JAZEERA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/58.m3u8
@@ -165,7 +165,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 #EXTINF:-1,KI_DURONTO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
-#EXTINF:-1,
+#EXTINF:-1,KI_CN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 #EXTINF:-1,KI_DISNEY XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
