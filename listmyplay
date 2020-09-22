@@ -227,3 +227,19 @@ http://172.17.50.112/live/antbd1002/index.m3u8
 http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1,ANTBD_DISCOVERY HD ENGLISH
 http://172.17.50.112/live/antbd1008/index.m3u8
+#EXTINF:-1,BONG_ZEE CINEMA
+https://live.bongobd.com/hls/T34aCiVcyYk9KL0urnNc4w/1600768668/zee_cinema_hi/index.m3u8
+#EXTINF:-1,BONG_ARY QTV
+https://live.bongobd.com/hls/XEGTgkj1646px8dMoperRQ/1600769261/ary_qtv_hi/index.m3u8
+#EXTINF:-1,BONG_ARY ZINDAGI
+https://live.bongobd.com/hls/_3SNS-hyyoe1ciUHc5VBhw/1600769362/ary_zindagi_hi/index.m3u8
+#EXTINF:-1,BONG_ARY DIGITAL
+https://live.bongobd.com/hls/ybbjsT1rSKAopLFJRufQQQ/1600769428/ary_digital_hi/index.m3u8
+#EXTINF:-1,BONG_ARY MUSIK
+https://live.bongobd.com/hls/MREnaHNPFyQsehMqw3RR4A/1600769527/ary_musik_hi/index.m3u8
+#EXTINF:-1,BONG_ZEE TV LOW
+https://live.bongobd.com/hls/62uk0S7TAj60MtCly44mXw/1600769596/zee_tv_low/index.m3u8
+#EXTINF:-1,BONG_PTV GLOBAL
+https://live.bongobd.com/hls/nAuiDwJJNAde4vKEK8WVMg/1600769729/ptv_global_hi/index.m3u8
+#EXTINF:-1,TEN SPORTS
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
