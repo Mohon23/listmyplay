@@ -249,5 +249,5 @@ http://103.214.202.218:8081/live/select1/chunks.m3u8
 http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1,WILLOW HD
 http://190.2.151.163:3333/sunshine/qv-9pwrHatiaDzfL0HL1hWFnpdvNCroKIBZ5cC3tkO7ObxS_XtimhHArQoFL6tSEjfgg2w6oUMueU6ZC88HN0SrsQsTBb1k_8BFn7d3MCw61SdZcMxqRMEEhFfYHH9rvyxKlGPDl-FFe7coWnFjYxEbnwD0VyeFt5OXF5YBSrV6looV_Vn21EUGzwPBApOaJ/v.ts
-#EXTINF:-1,STAR GOLD
-185.165.243.58:3333/sunshine/t4KJKlLMXhUZjIU45iyw8EhaknDwvDW7z0u0q4D2oOnCg33-Xz6DMrFogW6tNL1K6mQ5sSx2EbPqbdZsXmK-6EDDNPT65dDzobQeYB1j-dGLD9dAoibnKseM4b49EvzsOlW4SHOWkmh7ZQp1z3h17q4iU3Wyw_ZJzOcAUfZHXic_C6FQQdzTe5484tz6vJpH/v.ts
+#EXTINF:-1,Zee cinema hd
+http://dpasdl08.tth.cl:8745/eros/zeecinemahd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIwIDY6NDU6MTEgQU0maGFzaF92YWx1ZT1SeUlpajFmY3V5QU9KQVVUdEwzdEFBPT0mdmFsaWRtaW51dGVzPTI=
